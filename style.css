@@ -1,10 +1,10 @@
-/* Diagnoctic Styling */
-* {
-  outline: 2px dotted gray;
+/* Diagnostic Styling */
+body {
+  background: red;
 }
 
 
-/* temp background color */
-body{
-    background: lightblue
-  }
+/* Do Not below this line */
+body {
+  height: 100vh;
+}
